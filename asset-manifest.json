@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Router-phone/static/css/main.649a96db.css",
+    "main.js": "/Router-phone/static/js/main.c32df665.js",
+    "index.html": "/Router-phone/index.html",
+    "main.649a96db.css.map": "/Router-phone/static/css/main.649a96db.css.map",
+    "main.c32df665.js.map": "/Router-phone/static/js/main.c32df665.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.649a96db.css",
+    "static/js/main.c32df665.js"
+  ]
+}
